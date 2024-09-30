@@ -1,0 +1,5 @@
+The total number of tasks:	 3
+The total number of completed tasks:	 3
+The total number of uncompleted tasks:	 0
+The % of uncompleted tasks:	 0.0
+The % of completed tasks:	 100.0
