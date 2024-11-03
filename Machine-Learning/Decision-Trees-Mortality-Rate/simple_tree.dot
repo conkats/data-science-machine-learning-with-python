@@ -1,0 +1,9 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="acutephysiologyscore <= 78.5\ngini = 0.17\nsamples = 375\nvalue = [339, 36]", fillcolor="#e88e4e"] ;
+1 [label="gini = 0.12\nsamples = 351\nvalue = [329, 22]", fillcolor="#e78946"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="gini = 0.49\nsamples = 24\nvalue = [10, 14]", fillcolor="#c6e3f8"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+}
