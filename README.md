@@ -1,5 +1,7 @@
 # data-science-machine-learning-with-python
-- The objective of this repo is to explore the use of data science techniques for industrial applications and research via using python and recently developed libraries. A series of programs and projects developed inlcude:
+
+The objective of this repo is to explore the use of data science techniques for industrial applications and research via using python and recently developed libraries. A series of programs and projects developed inlcude:
+
 - Exploratory data analysis.
 - Machine and deep learning including unsupervised and supervised machine learning.
 - Generating and dealing with databases and task manager using Python, SQL for a book store shop including functionalities such as gui.
