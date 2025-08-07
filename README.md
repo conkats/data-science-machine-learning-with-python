@@ -18,12 +18,20 @@ Scripts and notebooks and the associated datasets are included in the repo as se
 
 ### References and datasets
 [1] [SystemX](https://ml-for-physical-simulation-challenge.irt-systemx.fr/powergrid-challenge/)
+
 [2] [Stanford University database](https://ctr.stanford.edu/)
+
 [3] https://dl.acm.org/doi/fullHtml/10.1145/3576914.3587552
+
 [4] https://www.vremanresearch.nl/
+
 [5] https://www.ike.uni-stuttgart.de/en/research/sco2/dns/
+
 [6] https://turbulence.idies.jhu.edu/home
+
 [7] [Kaggle](https://www.kaggle.com/datasets)
+
 [8] https://archive.ics.uci.edu/datasets
+
 [9] https://datasetsearch.research.google.com/
 [10] [StatQuest](https://www.youtube.com/watch?v=FgakZw6K1QQ)
