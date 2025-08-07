@@ -11,10 +11,10 @@ The objective of this repo is to explore the use of data science techniques for 
 Scripts and notebooks and the associated datasets are included in the repo as separate directories for each project.
 
 > [!Setup]
-1) Install anaconda or miniconda or setup a `venv` python environment following the relevant docs <https://www.anaconda.com/docs/getting-started/miniconda/main>.
-2) Install dependenceis in `your_python_env` and ensure python version >3.8. 
+> Install anaconda or miniconda or setup a `venv` python environment following the relevant docs <https://www.anaconda.com/docs/getting-started/miniconda/main>.
+> Install dependenceis in `your_python_env` and ensure python version >3.8. 
    `pip3 install -r requirements.txt`
-3) Learn and code!
+> Learn and happy coding with data science!
 
 ### References and datasets
 1. [SystemX](https://ml-for-physical-simulation-challenge.irt-systemx.fr/powergrid-challenge/)
