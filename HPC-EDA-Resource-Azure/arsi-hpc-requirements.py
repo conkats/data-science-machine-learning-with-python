@@ -5,7 +5,7 @@ import numpy as np
 
 ### RAM vs Cores per job
 # Data from the table
-users = ["Constantinos (PB)", "Constantinos (EPR)", "Ehimen (SB)", "Ewan (GV)", "Raheeg (GB)", "Assia (GB)"]
+users = ["User A (PB)", "User B (EPR)", "User C (SB)", "User D (GV)", "User E (GB)", "User F (GB)"]
 cores = [30, 164, 28, 264, 20, 20]  # Approximated from given ranges
 ram = [4.5, 4.5, 4.5, 4.5, 150, 100]  # Approximated from given ranges
 
